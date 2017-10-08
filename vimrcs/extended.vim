@@ -31,6 +31,8 @@ set guioptions-=L
 set background=dark
 colorscheme ir_black 
 
+"Adding line numbers at start-up
+set number
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Fast editing and reloading of vimrc configs
