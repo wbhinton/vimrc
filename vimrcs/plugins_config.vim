@@ -23,6 +23,12 @@ let g:bufExplorerFindActive=1
 let g:bufExplorerSortBy='name'
 map <leader>o :BufExplorer<cr>
 
+""""""""""""""""""""""""""""""
+" => vim-javascript
+""""""""""""""""""""""""""""""
+let g:javascript_plugin_jsdoc = 1
+let g:javascript_plugin_ngdoc = 1
+let g:javascript_plugin_flow = 1
 
 """"""""""""""""""""""""""""""
 " => MRU plugin
